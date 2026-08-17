@@ -2,7 +2,7 @@
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Name: MADHAVAN K
 ## Register Number: 212224220054
-## Date: 20-02-2026
+## Date: 08-08-2026
 ## AIM:
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
